@@ -33,6 +33,10 @@
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string></string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>PhotoRoulette needs access to your photo library to randomly select and share photos during gameplay.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>PhotoRoulette needs access to your camera to take photos for sharing during gameplay.</string>
 	<key>RCTNewArchEnabled</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>
