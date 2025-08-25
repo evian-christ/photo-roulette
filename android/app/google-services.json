@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4307345694",
+    "project_id": "photoroulette-ef3c1",
+    "storage_bucket": "photoroulette-ef3c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4307345694:android:203dceccc2bf62dcb1a90f",
+        "android_client_info": {
+          "package_name": "com.photoroulette"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBrW6k51R9-pbXwXPab2-9nMkdfey6qug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
